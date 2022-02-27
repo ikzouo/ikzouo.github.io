@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PSV on iKzouo</title>
+    <link>https://ikzouo.github.io/tags/psv/</link>
+    <description>Recent content in PSV on iKzouo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>ikzouo@163.com (iKzouo)</managingEditor>
+    <webMaster>ikzouo@163.com (iKzouo)</webMaster>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ikzouo.github.io/tags/psv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PSV随记</title>
+      <link>https://ikzouo.github.io/psv/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <author>ikzouo@163.com (iKzouo)</author>
+      <guid>https://ikzouo.github.io/psv/</guid>
+      <description>PSV分区简介 PS：tai为插件按安装目录存放于u</description>
+    </item>
+    
+  </channel>
+</rss>

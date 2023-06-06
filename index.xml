@@ -107,6 +107,15 @@
 &lt;div class="image-caption"> &lt;/div>
 &lt;/figure>&lt;/li>
 &lt;/ul>
+&lt;blockquote>
+&lt;p>游戏本体 ：体积最大，文件名尾号带有000或者v0&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>升级包：文件名中带有V，UP，Upd&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>DLC：文件名中带有dlc&lt;/p>
+&lt;/blockquote>
 &lt;h2 id="附录">附录&lt;/h2>
 &lt;table>
 &lt;thead>

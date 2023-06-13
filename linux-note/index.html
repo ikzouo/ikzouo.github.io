@@ -5,7 +5,88 @@ Tags</a></li><li class="waves-block waves-effect"><a href=/links/><i class="icon
 Links</a></li><li class="waves-block waves-effect"><a href=https://github.com/iKzouo target=_blank><i class="icon icon-lg icon-github"></i>
 Github</a></li></ul></div></div></aside><main id=main><header class=top-header id=header><div class=flex-row><a href=javascript:; class="header-icon waves-effect waves-circle waves-light on" id=menu-toggle><i class="icon icon-lg icon-navicon"></i></a><div class="flex-col header-title ellipsis">Linux备忘录</div><div class=search-wrap id=search-wrap><a href=javascript:; class="header-icon waves-effect waves-circle waves-light" id=back><i class="icon icon-lg icon-chevron-left"></i></a>
 <input type=text id=key class=search-input autocomplete=off placeholder=请输入感兴趣的关键字>
-<a href=javascript:; class="header-icon waves-effect waves-circle waves-light" id=search><i class="icon icon-lg icon-search"></i></a></div><a href=javascript:; class="header-icon waves-effect waves-circle waves-light" id=menuShare><i class="icon icon-lg icon-share-alt"></i></a></div></header><header class="content-header post-header"><div class="container fade-scale"><h1 class=title>Linux备忘录</h1><h5 class=subtitle><time datetime="2018-08-20 00:00:00 +0000 UTC" itemprop=datePublished class=page-time>2018年08月20日</time></h5></div></header><div class="container body-wrap"><div class=domHide><nav id=TableOfContents><ul><li><a href=#安装jdk>安装JDK</a></li><li><a href=#安装tomcat>安装tomcat</a></li><li><a href=#防火墙开启端口>防火墙开启端口</a></li></ul></nav></div><aside class=post-widget><nav class="post-toc-wrap post-toc-shrink" id=post-toc><h4>TOC</h4></nav></aside><article id=post-multipart-x-mixed-replace class="post-article article-type-post fade" itemprop=blogPost><div class=post-card><h1 class=post-card-title>Linux备忘录</h1><div class=post-meta><time class=post-time title="2018-08-20 00:00:00 +0000 UTC" datetime="2018-08-20 00:00:00 +0000 UTC" itemprop=datePublished>2018年08月20日</time><ul class=article-category-list><li class=article-category-list-item><a class=article-category-list-link href=https://ikzouo.github.io/categories/%E6%88%91%E7%9A%84%E5%A4%87%E5%BF%98%E5%BD%95/>我的备忘录</a></li></ul><span id=busuanzi_container_page_pv title=文章总阅读量><i class="icon icon-eye icon-pr"></i><span id=busuanzi_value_page_pv>233</span></span></div><div class=post-content id=post-content itemprop=postContent><h2 id=安装jdk>安装JDK</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>mv	jdk.tar /opt
+<a href=javascript:; class="header-icon waves-effect waves-circle waves-light" id=search><i class="icon icon-lg icon-search"></i></a></div><a href=javascript:; class="header-icon waves-effect waves-circle waves-light" id=menuShare><i class="icon icon-lg icon-share-alt"></i></a></div></header><header class="content-header post-header"><div class="container fade-scale"><h1 class=title>Linux备忘录</h1><h5 class=subtitle><time datetime="2018-08-20 00:00:00 +0000 UTC" itemprop=datePublished class=page-time>2018年08月20日</time></h5></div></header><div class="container body-wrap"><div class=domHide><nav id=TableOfContents><ul><li><a href=#分区方案>分区方案</a></li><li><a href=#net静态ip>NET静态IP</a><ul><li><a href=#修改vm>修改VM</a></li><li><a href=#修改主机>修改主机</a></li><li><a href=#修改linux文件>修改Linux文件</a></li></ul></li><li><a href=#yum源>Yum源</a></li><li><a href=#安装jdk>安装JDK</a></li><li><a href=#安装tomcat>安装tomcat</a></li><li><a href=#安装docker>安装Docker</a></li><li><a href=#安装redisdocker>安装Redis(docker)</a></li><li><a href=#软件管理>软件管理</a></li><li><a href=#开启防火墙端口>开启防火墙端口</a></li></ul></nav></div><aside class=post-widget><nav class="post-toc-wrap post-toc-shrink" id=post-toc><h4>TOC</h4></nav></aside><article id=post-multipart-x-mixed-replace class="post-article article-type-post fade" itemprop=blogPost><div class=post-card><h1 class=post-card-title>Linux备忘录</h1><div class=post-meta><time class=post-time title="2018-08-20 00:00:00 +0000 UTC" datetime="2018-08-20 00:00:00 +0000 UTC" itemprop=datePublished>2018年08月20日</time><ul class=article-category-list><li class=article-category-list-item><a class=article-category-list-link href=https://ikzouo.github.io/categories/%E6%88%91%E7%9A%84%E5%A4%87%E5%BF%98%E5%BD%95/>我的备忘录</a></li></ul><span id=busuanzi_container_page_pv title=文章总阅读量><i class="icon icon-eye icon-pr"></i><span id=busuanzi_value_page_pv>233</span></span></div><div class=post-content id=post-content itemprop=postContent><h2 id=分区方案>分区方案</h2><table><thead><tr><th>目录</th><th>最小空间</th><th>文件系统</th><th>注意</th><th>说明</th></tr></thead><tbody><tr><td>/boot</td><td>500M</td><td>xfs</td><td>挂载在/boot 中的分区，包含操作系统内核（它可让您的系统引导 CentOS）、以及在自我引导过程中使用的文件。由于某些限制，创建一个初始的xfs分区来容纳这些文件是一个好办法。500MB 的 boot分区足以满足大多数用户的需要。</td><td></td></tr><tr><td>/</td><td>8G</td><td>xfs</td><td>它是"/”(root目录)所在位置。在这种设置中，所有文件 （除了那些保存在 /boot/ 中的文件）都位于 root 分区中。3.0GB 分区允许您进行最小安装，而5.0GB roo分区可让您执行完全安装，选择所有软件包组群。</td><td></td></tr><tr><td>/home</td><td>10G</td><td>xfs</td><td>如果您希望您或者其他用户保存系统中的数据，请在卷组中为 /home 目录创建一个独立的分区。使用独立/home分区，您可以在不擦除用户数据文件的情况下升级或者重新安装 CentOS。考虑对所有可能包含敏感数据的分区加密。加密可防止未授权的人访问这些分区中的数据，即使他们可以访问物理存储设备。在大多数情况下，您应该至少为/home 分区加密。建议大小为剩下的空间。</td><td></td></tr><tr><td>/swap</td><td>剩余</td><td>xfs</td><td>swap分区被用来支持虚拟内存。换一句话说，当内存不足以贮存系统正在处理的数据时，数据就会被写入swp分区。建议大小是物理内存的0.5~1倍。</td><td>内存小于4G的为内存的2倍 内存大于4G的和内存大小一致即可</td></tr></tbody></table><h2 id=net静态ip>NET静态IP</h2><h3 id=修改vm>修改VM</h3><p><figure class=image-bubble><div class=img-lightbox><div class=overlay></div><img src=https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/vm/vm_1.webp title=" "></div><div class=image-caption></div></figure></p><p><figure class=image-bubble><div class=img-lightbox><div class=overlay></div><img src=https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/vm/vm_2.webp title=" "></div><div class=image-caption></div></figure></p><h3 id=修改主机>修改主机</h3><p><figure class=image-bubble><div class=img-lightbox><div class=overlay></div><img src=https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/vm/vm_3.webp title=" "></div><div class=image-caption></div></figure></p><h3 id=修改linux文件>修改Linux文件</h3><p>文件位置 /etc/sysconfig/network-scripts/ifcfg-ens33</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=nv>TYPE</span><span class=o>=</span>Ethernet
+</span></span><span class=line><span class=cl><span class=nv>PROXY_METHOD</span><span class=o>=</span>none
+</span></span><span class=line><span class=cl><span class=nv>BROWSER_ONLY</span><span class=o>=</span>no
+</span></span><span class=line><span class=cl><span class=nv>BOOTPROTO</span><span class=o>=</span>static
+</span></span><span class=line><span class=cl><span class=nv>DEFROUTE</span><span class=o>=</span>yes
+</span></span><span class=line><span class=cl><span class=nv>IPV4_FAILURE_FATAL</span><span class=o>=</span>no
+</span></span><span class=line><span class=cl><span class=nv>IPV6INIT</span><span class=o>=</span>yes
+</span></span><span class=line><span class=cl><span class=nv>IPV6_AUTOCONF</span><span class=o>=</span>yes
+</span></span><span class=line><span class=cl><span class=nv>IPV6_DEFROUTE</span><span class=o>=</span>yes
+</span></span><span class=line><span class=cl><span class=nv>IPV6_FAILURE_FATAL</span><span class=o>=</span>no
+</span></span><span class=line><span class=cl><span class=nv>IPV6_ADDR_GEN_MODE</span><span class=o>=</span>stable-privacy
+</span></span><span class=line><span class=cl><span class=nv>NAME</span><span class=o>=</span>ens33
+</span></span><span class=line><span class=cl><span class=nv>UUID</span><span class=o>=</span>60dea6ba-d0ae-4172-a2f9-67a2eb6b5a8a
+</span></span><span class=line><span class=cl><span class=nv>DEVICE</span><span class=o>=</span>ens33
+</span></span><span class=line><span class=cl><span class=nv>ONBOOT</span><span class=o>=</span>yes
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nv>DNS1</span><span class=o>=</span>114.114.114.114
+</span></span><span class=line><span class=cl><span class=nv>IPADDR</span><span class=o>=</span>192.168.123.3
+</span></span><span class=line><span class=cl><span class=nv>NETMASK</span><span class=o>=</span>255.255.255.0
+</span></span><span class=line><span class=cl><span class=nv>GATEWAY</span><span class=o>=</span>192.168.123.1
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#重启网络服务</span>
+</span></span><span class=line><span class=cl>service network restart
+</span></span></code></pre></div><h2 id=yum源>Yum源</h2><p>文件位置 /etc/yum.repos.d/CentOS-Base.repo</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-tex data-lang=tex><span class=line><span class=cl># CentOS-Base.repo
+</span></span><span class=line><span class=cl>#
+</span></span><span class=line><span class=cl># The mirror system uses the connecting IP address of the client and the
+</span></span><span class=line><span class=cl># update status of each mirror to pick mirrors that are updated to and
+</span></span><span class=line><span class=cl># geographically close to the client.  You should use this for CentOS updates
+</span></span><span class=line><span class=cl># unless you are manually picking other mirrors.
+</span></span><span class=line><span class=cl>#
+</span></span><span class=line><span class=cl># If the mirrorlist= does not work for you, as a fall back you can try the 
+</span></span><span class=line><span class=cl># remarked out baseurl= line instead.
+</span></span><span class=line><span class=cl>#
+</span></span><span class=line><span class=cl>#
+</span></span><span class=line><span class=cl> 
+</span></span><span class=line><span class=cl>[base]
+</span></span><span class=line><span class=cl>name=CentOS-<span class=s>$</span><span class=nb>releasever </span><span class=o>-</span><span class=nb> Base </span><span class=o>-</span><span class=nb> mirrors.aliyun.com
+</span></span></span><span class=line><span class=cl><span class=nb>failovermethod</span><span class=o>=</span><span class=nb>priority
+</span></span></span><span class=line><span class=cl><span class=nb>baseurl</span><span class=o>=</span><span class=nb>http:</span><span class=o>//</span><span class=nb>mirrors.aliyun.com</span><span class=o>/</span><span class=nb>centos</span><span class=o>/</span><span class=s>$</span>releasever/os/<span class=s>$</span><span class=nb>basearch</span><span class=o>/</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>gpgcheck</span><span class=o>=</span><span class=m>1</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>gpgkey</span><span class=o>=</span><span class=nb>http:</span><span class=o>//</span><span class=nb>mirrors.aliyun.com</span><span class=o>/</span><span class=nb>centos</span><span class=o>/</span><span class=nb>RPM</span><span class=o>-</span><span class=nb>GPG</span><span class=o>-</span><span class=nb>KEY</span><span class=o>-</span><span class=nb>CentOS</span><span class=o>-</span><span class=m>7</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb> 
+</span></span></span><span class=line><span class=cl><span class=nb>#released updates 
+</span></span></span><span class=line><span class=cl><span class=nb></span><span class=o>[</span><span class=nb>updates</span><span class=o>]</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>name</span><span class=o>=</span><span class=nb>CentOS</span><span class=o>-</span><span class=s>$</span>releasever - Updates - mirrors.aliyun.com
+</span></span><span class=line><span class=cl>failovermethod=priority
+</span></span><span class=line><span class=cl>baseurl=http://mirrors.aliyun.com/centos/<span class=s>$</span><span class=nb>releasever</span><span class=o>/</span><span class=nb>updates</span><span class=o>/</span><span class=s>$</span>basearch/
+</span></span><span class=line><span class=cl>gpgcheck=1
+</span></span><span class=line><span class=cl>gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentOS-7
+</span></span><span class=line><span class=cl> 
+</span></span><span class=line><span class=cl>#additional packages that may be useful
+</span></span><span class=line><span class=cl>[extras]
+</span></span><span class=line><span class=cl>name=CentOS-<span class=s>$</span><span class=nb>releasever </span><span class=o>-</span><span class=nb> Extras </span><span class=o>-</span><span class=nb> mirrors.aliyun.com
+</span></span></span><span class=line><span class=cl><span class=nb>failovermethod</span><span class=o>=</span><span class=nb>priority
+</span></span></span><span class=line><span class=cl><span class=nb>baseurl</span><span class=o>=</span><span class=nb>http:</span><span class=o>//</span><span class=nb>mirrors.aliyun.com</span><span class=o>/</span><span class=nb>centos</span><span class=o>/</span><span class=s>$</span>releasever/extras/<span class=s>$</span><span class=nb>basearch</span><span class=o>/</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>gpgcheck</span><span class=o>=</span><span class=m>1</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>gpgkey</span><span class=o>=</span><span class=nb>http:</span><span class=o>//</span><span class=nb>mirrors.aliyun.com</span><span class=o>/</span><span class=nb>centos</span><span class=o>/</span><span class=nb>RPM</span><span class=o>-</span><span class=nb>GPG</span><span class=o>-</span><span class=nb>KEY</span><span class=o>-</span><span class=nb>CentOS</span><span class=o>-</span><span class=m>7</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb> 
+</span></span></span><span class=line><span class=cl><span class=nb>#additional packages that extend functionality of existing packages
+</span></span></span><span class=line><span class=cl><span class=nb></span><span class=o>[</span><span class=nb>centosplus</span><span class=o>]</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>name</span><span class=o>=</span><span class=nb>CentOS</span><span class=o>-</span><span class=s>$</span>releasever - Plus - mirrors.aliyun.com
+</span></span><span class=line><span class=cl>failovermethod=priority
+</span></span><span class=line><span class=cl>baseurl=http://mirrors.aliyun.com/centos/<span class=s>$</span><span class=nb>releasever</span><span class=o>/</span><span class=nb>centosplus</span><span class=o>/</span><span class=s>$</span>basearch/
+</span></span><span class=line><span class=cl>gpgcheck=1
+</span></span><span class=line><span class=cl>enabled=0
+</span></span><span class=line><span class=cl>gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentOS-7
+</span></span><span class=line><span class=cl> 
+</span></span><span class=line><span class=cl>#contrib - packages by Centos Users
+</span></span><span class=line><span class=cl>[contrib]
+</span></span><span class=line><span class=cl>name=CentOS-<span class=s>$</span><span class=nb>releasever </span><span class=o>-</span><span class=nb> Contrib </span><span class=o>-</span><span class=nb> mirrors.aliyun.com
+</span></span></span><span class=line><span class=cl><span class=nb>failovermethod</span><span class=o>=</span><span class=nb>priority
+</span></span></span><span class=line><span class=cl><span class=nb>baseurl</span><span class=o>=</span><span class=nb>http:</span><span class=o>//</span><span class=nb>mirrors.aliyun.com</span><span class=o>/</span><span class=nb>centos</span><span class=o>/</span><span class=s>$</span>releasever/contrib/<span class=s>$</span><span class=nb>basearch</span><span class=o>/</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>gpgcheck</span><span class=o>=</span><span class=m>1</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>enabled</span><span class=o>=</span><span class=m>0</span><span class=nb>
+</span></span></span><span class=line><span class=cl><span class=nb>gpgkey</span><span class=o>=</span><span class=nb>http:</span><span class=o>//</span><span class=nb>mirrors.aliyun.com</span><span class=o>/</span><span class=nb>centos</span><span class=o>/</span><span class=nb>RPM</span><span class=o>-</span><span class=nb>GPG</span><span class=o>-</span><span class=nb>KEY</span><span class=o>-</span><span class=nb>CentOS</span><span class=o>-</span><span class=m>7</span><span class=nb>
+</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#清除缓存目录下的软件包及旧的headers</span>
+</span></span><span class=line><span class=cl>yum clean all
+</span></span><span class=line><span class=cl><span class=c1>#将服务器软件包信息缓存到本地</span>
+</span></span><span class=line><span class=cl>yum makecache
+</span></span><span class=line><span class=cl><span class=c1>#更新软件</span>
+</span></span><span class=line><span class=cl>yum -y install update
+</span></span></code></pre></div><h2 id=安装jdk>安装JDK</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>mv jdk.tar /opt
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>tar -zxvf jdk.tar
 </span></span><span class=line><span class=cl>
@@ -38,7 +119,84 @@ Github</a></li></ul></div></div></aside><main id=main><header class=top-header i
 </span></span><span class=line><span class=cl><span class=c1>#对文件内容进行修改</span>
 </span></span><span class=line><span class=cl>-  securerandom.source<span class=o>=</span>file:/dev/urandom
 </span></span><span class=line><span class=cl>+  securerandom.source<span class=o>=</span>file:/dev/./urandom
-</span></span></code></pre></div><h2 id=防火墙开启端口>防火墙开启端口</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#centos6</span>
+</span></span></code></pre></div><h2 id=安装docker>安装Docker</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>yum remove docker <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-client <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-client-latest <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-common <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-latest <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-latest-logrotate <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-logrotate <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>                  docker-engine
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>yum install -y yum-utils
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>yum-config-manager <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>    --add-repo <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>    http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>yum makecache  fast
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>yum install docker-ce docker-ce-cli containerd.io
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>vim /etc/docker/daemon.json
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>{</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;registry-mirrors&#34;</span>:<span class=o>[</span><span class=s2>&#34;https://almtd3fa.mirror.aliyuncs.com&#34;</span><span class=o>]</span>      
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>systemctl daemon-reload
+</span></span><span class=line><span class=cl>systemctl restart docker
+</span></span><span class=line><span class=cl>systemctl <span class=nb>enable</span> docker
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>yum remove docker-ce docker-ce-cli containerd.io
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>rm -rf /var/lib/docker
+</span></span></code></pre></div><h2 id=安装redisdocker>安装Redis(docker)</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>docker search redis
+</span></span><span class=line><span class=cl>docker pull redis:5.0.5
+</span></span><span class=line><span class=cl>docker images
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>mkdir /home/docker/redis/<span class=o>{</span>conf,data<span class=o>}</span> -p
+</span></span><span class=line><span class=cl><span class=nb>cd</span> /home/docker/redis
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1># 获取 redis 的默认配置模版</span>
+</span></span><span class=line><span class=cl><span class=c1># 这里主要是想设置下 redis 的 log / password / appendonly</span>
+</span></span><span class=line><span class=cl><span class=c1># redis 的 docker 运行参数提供了 --appendonly yes 但没 password</span>
+</span></span><span class=line><span class=cl>wget https://gitee.com/hanxt/boot-launch/raw/master/src/main/resources/otherconfig/redis.conf -O conf/redis.conf
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># 直接替换编辑</span>
+</span></span><span class=line><span class=cl>sed -i <span class=s1>&#39;s/logfile &#34;&#34;/logfile &#34;access.log&#34;/&#39;</span> conf/redis.conf<span class=p>;</span>
+</span></span><span class=line><span class=cl>sed -i <span class=s1>&#39;s/# requirepass foobared/requirepass 123456/&#39;</span> conf/redis.conf<span class=p>;</span>
+</span></span><span class=line><span class=cl>sed -i <span class=s1>&#39;s/appendonly no/appendonly yes/&#39;</span> conf/redis.conf<span class=p>;</span>
+</span></span><span class=line><span class=cl>sed -i <span class=s1>&#39;s/bind 127.0.0.1/bind 0.0.0.0/&#39;</span> conf/redis.conf<span class=p>;</span>
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>docker run <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>-p 6379:6379 <span class=se>\ </span><span class=c1># 端口映射 宿主机:容器</span>
+</span></span><span class=line><span class=cl>-v <span class=nv>$PWD</span>/data:/data:rw <span class=se>\ </span><span class=c1># 映射磁盘目录 rw 为读写，宿主机目录：容器目录</span>
+</span></span><span class=line><span class=cl>-v <span class=nv>$PWD</span>/conf/redis.conf:/etc/redis/redis.conf:ro <span class=se>\ </span><span class=c1># 挂载配置文件 ro 为readonly</span>
+</span></span><span class=line><span class=cl>--privileged<span class=o>=</span><span class=nb>true</span> <span class=se>\ </span><span class=c1># 给与一些权限</span>
+</span></span><span class=line><span class=cl>--name myredis <span class=se>\ </span><span class=c1># 给容器起个名字</span>
+</span></span><span class=line><span class=cl>-d redisredis-server /etc/redis/redis.conf <span class=c1># deamon 运行容器 并使用配置文件启动容器内的 redis-server </span>
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>docker <span class=nb>exec</span> -it myredis bash
+</span></span></code></pre></div><h2 id=软件管理>软件管理</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>##安装vim</span>
+</span></span><span class=line><span class=cl>yum remove -y vim-common
+</span></span><span class=line><span class=cl>yum install -y vim
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#安装ssh</span>
+</span></span><span class=line><span class=cl>yum install -y  ssh*
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1>#编辑文件</span>
+</span></span><span class=line><span class=cl>vim /etc/ssh/sshd_config
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1>#更改文件内容为</span>
+</span></span><span class=line><span class=cl>PremitRootLogin yes
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1>#启动ssh</span>
+</span></span><span class=line><span class=cl>service ssh start
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1>#查看ssh进程</span>
+</span></span><span class=line><span class=cl>ps -e <span class=p>|</span>grep ssh
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1>#ssh开机自启</span>
+</span></span><span class=line><span class=cl>sudo systemctl <span class=nb>enable</span> ssh
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#安装net工具包</span>
+</span></span><span class=line><span class=cl>yum install net-tools
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>netstat -ntulp
+</span></span></code></pre></div><h2 id=开启防火墙端口>开启防火墙端口</h2><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#centos6</span>
 </span></span><span class=line><span class=cl>vim /etc/sysconfig/iptables
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>
@@ -46,8 +204,7 @@ Github</a></li></ul></div></div></aside><main id=main><header class=top-header i
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>service iptables restart
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=c1>#centos7</span>
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1>#centos7</span>
 </span></span><span class=line><span class=cl>firewall-cmd --state 
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>firewall-cmd --add-port<span class=o>=</span>161/tcp --permanent

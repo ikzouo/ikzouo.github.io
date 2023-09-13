@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iKzouo</title><link>https://ikzouo.github.io/</link><description>Recent content on iKzouo</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ikzouo@163.com (iKzouo)</managingEditor><webMaster>ikzouo@163.com (iKzouo)</webMaster><lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ikzouo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Switch大气层</title><link>https://ikzouo.github.io/atmosphere/</link><pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/atmosphere/</guid><description>&lt;h2 id="大气层整合">大气层整合&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iKzouo</title><link>https://ikzouo.github.io/</link><description>Recent content on iKzouo</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ikzouo@163.com (iKzouo)</managingEditor><webMaster>ikzouo@163.com (iKzouo)</webMaster><lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ikzouo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>快速笔记</title><link>https://ikzouo.github.io/note/</link><pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/note/</guid><description>&lt;h2 id="k8s">K8S&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#查询命名空间下的全部pod&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">kubectl get pods -n ih-platform
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#查询指定pod日志&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">kubectl logs -f -n ih-platform pod-c7997b4f9-6d22d --tail&lt;span class="o">=&lt;/span>&lt;span class="m">500&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#进入k8s容器&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">kubectl &lt;span class="nb">exec&lt;/span> mongodb-0 -n ih-platform -it -- bash
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="mongodb">MongoDB&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#进入mongo命令行&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mongo
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#切换数据库&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">use &lt;span class="nb">test&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#认证&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">db.auth&lt;span class="o">(&lt;/span>&lt;span class="s2">&amp;#34;admin&amp;#34;&lt;/span>,&lt;span class="s2">&amp;#34;123456&amp;#34;&lt;/span>&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#清屏&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">cls
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#查询数据&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">db.design_form.find&lt;span class="o">({&lt;/span>&lt;span class="s2">&amp;#34;relation&amp;#34;&lt;/span>:0&lt;span class="o">})&lt;/span>.limit&lt;span class="o">(&lt;/span>1&lt;span class="o">)&lt;/span>.pretty&lt;span class="o">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#清空数据&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">db.design_form.remove&lt;span class="o">({})&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Switch大气层</title><link>https://ikzouo.github.io/atmosphere/</link><pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/atmosphere/</guid><description>&lt;h2 id="大气层整合">大气层整合&lt;/h2>
 &lt;h2 id="双系统升级">双系统升级&lt;/h2>
 &lt;ul>
 &lt;li>查看系统版本号 例如 14.0.0|AMS1.3.0|E ，14.0.0代表系统版本，AMS1.3.0代表大气层版本 ，E代表虚拟系统。切记不要跨版本升级&lt;/li>
@@ -1670,254 +1699,4 @@ git remote add origin_ssh &amp;lt;远程库ssh连接地址&amp;gt;。&lt;/p>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;now money [&amp;#34;&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">nowMoney&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="s">&amp;#34;]&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>使用FDS搭建图床</title><link>https://ikzouo.github.io/fdfs/</link><pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/fdfs/</guid><description>&lt;h1 id="fds服务器搭建">FDS服务器搭建&lt;/h1>
-&lt;h1 id="架构介绍">架构介绍&lt;/h1>
-&lt;p>FastDFS是使用c语言编写的一款分布式文件系统。专门为互联网量身定制，充分考虑了冗余备份、负载均衡、先行扩容等级制，并注重高可用、高性能等指标，使用FastDFS很容易搭建一套高性能的文件服务器集群并提供文件上传、下载服务。&lt;/p>
-&lt;p>&lt;figure class="image-bubble">
-&lt;div class="img-lightbox">
-&lt;div class="overlay">&lt;/div>
-&lt;img src="https://s1.ax1x.com/2020/04/15/JPKxhV.png" title=" ">
-&lt;/div>
-&lt;div class="image-caption"> &lt;/div>
-&lt;/figure>&lt;/p>
-&lt;p>FastDFS架构包括 Tracker server 和 Storage server。客户端请求Tracker server进行文件的上传下载，通过Tracker server 调度最终由Storage server完成&lt;/p>
-&lt;blockquote>
-&lt;p>Tracker server 的作用是负载均衡和调度，通过Tracker server可以根据一些策略找到Storage server提供下载或上传服务 可以理解为调度服务器或追踪服务器。&lt;/p>
-&lt;/blockquote>
-&lt;br/>
-&lt;blockquote>
-&lt;p>Storage server作用是作为文件存储，客户上传的文件最终存储到Storage服务器上，Storage server没有独立的文件系统，利用操作系统的文件系统来管理文件，可以理解为 存储服务器。&lt;/p>
-&lt;/blockquote>
-&lt;p>上传流程&lt;/p>
-&lt;p>&lt;figure class="image-bubble">
-&lt;div class="img-lightbox">
-&lt;div class="overlay">&lt;/div>
-&lt;img src="https://s1.ax1x.com/2020/04/15/JPKvt0.png" title=" ">
-&lt;/div>
-&lt;div class="image-caption"> &lt;/div>
-&lt;/figure>&lt;/p>
-&lt;p>下载流程&lt;/p>
-&lt;p>&lt;figure class="image-bubble">
-&lt;div class="img-lightbox">
-&lt;div class="overlay">&lt;/div>
-&lt;img src="https://s1.ax1x.com/2020/04/15/JPKjkq.png" title=" ">
-&lt;/div>
-&lt;div class="image-caption"> &lt;/div>
-&lt;/figure>&lt;/p>
-&lt;h1 id="安装环境">安装环境&lt;/h1>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>名称&lt;/th>
-&lt;th>说明&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>centos&lt;/td>
-&lt;td>7.x&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>libfastcommon&lt;/td>
-&lt;td>fdfs公用函数包&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>fdfs&lt;/td>
-&lt;td>fdfs本体&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>fastdfs-nginx-module&lt;/td>
-&lt;td>fdfs nginx扩展模块&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>nginx&lt;/td>
-&lt;td>1.61.1&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="编译环境">编译环境&lt;/h1>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">yum install git gcc gcc-c++ make automake autoconf libtool pcre pcre-devel zlib zlib-devel openssl-devel wget vim -y
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="安装流程">安装流程&lt;/h1>
-&lt;ol>
-&lt;li>
-&lt;p>libfastcommon&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#libfastcommon&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git clone https://github.com/happyfish100/libfastcommon.git --depth &lt;span class="m">1&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> libfastcommon
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">./make.sh &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> ./make.sh install
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
-&lt;li>
-&lt;p>fdfs&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安装&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git clone https://github.com/happyfish100/fastdfs.git --depth &lt;span class="m">1&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> fastdfs
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">./make.sh &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> ./make.sh install
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#复制配置文件到指定目录&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">cp * /etc/fdfs
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#fdfs命令存放位置&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/usr/bin/fdfs_*
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#fdfs配置文件存放位置&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/etc/fdfs/*.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">```&lt;/span>配置tracker
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">```&lt;/span>shell
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#配置Tracker&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">vim /etc/fdfs/tracker.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#修改配置文件&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#根据配置文件 去开放对应的端口[22122]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#修改日志文件的存放目录&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">base_path&lt;/span> &lt;span class="o">=&lt;/span> /home/fastdfs/tracker
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#启动服务&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/usr/bin/fdfs_trackerd /ect/fdfs/tracker.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#自启服务&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">chkconfig fdfs_trackerd on
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">```&lt;/span>配置storage
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sb">```&lt;/span>shell
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> vim /etc/fdfs/storage.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#修改配置文件&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#根据配置文件 去开放对应的端口[23000]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#修改日志文件的存放目录&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">base_path&lt;/span> &lt;span class="o">=&lt;/span> /home/fastdfs/storage
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">store_path0&lt;/span> &lt;span class="o">=&lt;/span> /home/fastdfs/storage
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">tracker_server&lt;/span> &lt;span class="o">=&lt;/span> 127.0.0.1:22122
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#启动服务&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> /usr/bin/fdfs_storage /etc/fdfs/storage.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#自启服务&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> chkconfig fdfs_storaged on
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sb">```&lt;/span>测试
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sb">```&lt;/span>shell
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> vim /etc/client.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#修改配置文件&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#根据配置文件 去开放对应的端口[23000]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#修改日志文件的存放目录&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">base_path&lt;/span> &lt;span class="o">=&lt;/span> /home/fastdfs/client
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">tracker_server&lt;/span> &lt;span class="o">=&lt;/span> 192.168.5.130:22122
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> /usr/bin/fdfs_test /etc/fdfs/client.conf upload test.jsp
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#根据上传得到的url 查看是否存在图片比如&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> url: http://192.168.5.130/group1/M00/00/00/wKgFgl3twV-AZokSAABdreSfEnY807_big.jpg
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 文件位置: /home/storage/data/00/00/
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="3">
-&lt;li>
-&lt;p>安装nginx fdfs的扩展模块&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">git clone https://github.com/happyfish100/fastdfs-nginx-module.git --depth &lt;span class="m">1&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> fastdfs-nginx-module/src
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">vim config
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#去掉文件中所有的local&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">wget http://nginx.org/download/nginx-1.15.4.tar.gz
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">tar -zxvf nginx-1.15.4.tar.gz
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
-&lt;/ol>
-&lt;p>#nginx编辑安装参数 安装之前保证对应的文件夹存在
-./configure &lt;br>
-&amp;ndash;prefix=/usr/local/nginx &lt;br>
-&amp;ndash;pid-path=/var/run/nginx/nginx.pid &lt;br>
-&amp;ndash;lock-path=/var/lock/nginx.lock &lt;br>
-&amp;ndash;error-log-path=/var/log/nginx/error.log &lt;br>
-&amp;ndash;http-log-path=/var/log/nginx/access.log &lt;br>
-&amp;ndash;with-http_gzip_static_module &lt;br>
-&amp;ndash;http-client-body-temp-path=/var/temp/nginx/client &lt;br>
-&amp;ndash;http-proxy-temp-path=/var/temp/nginx/proxy &lt;br>
-&amp;ndash;http-fastcgi-temp-path=/var/temp/nginx/fastcgi &lt;br>
-&amp;ndash;http-uwsgi-temp-path=/var/temp/nginx/uwsgi &lt;br>
-&amp;ndash;http-scgi-temp-path=/var/temp/nginx/scgi &lt;br>
-&amp;ndash;add-module=/root/fastdfs-nginx-module/src&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```shell
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">make &amp;amp;&amp;amp; make install
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">cp fastdfs-nginx-module/src/mod_fastdfs.conf /etc/fdfs
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">vim /etc/fdfs/mod_fastdfs.conf
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#修改配置文件
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#根据配置文件 去开放对应的端口[23000]
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#配置tracker服务器地址
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">tracker_server=127.0.0.1:22122
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#配置url中是否包含group
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">url_have_group_name = true
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#配置fdfs的图片存储位置
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">store_path0 = /home/fastdfs/storage
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```配置nginx
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```shell
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#配置对应的server 开放80端口
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">server {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> listen 80;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> server_name localhost;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> location /group1/M00/{
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> #root /home/FastDFS/fdfs_storage/data;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ngx_fastdfs_module;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sbin/nginx
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sbin/nginx -s stop
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="在java中调用fdfs">在java中调用fdfs&lt;/h1>
-&lt;p>安装fdfs jar&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">git clone https://github.com/happyfish100/fastdfs-client-java.git
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> fastdfs-client-java
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mvn clean install
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>创建maven项目 导入fdfs jar&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-xml" data-lang="xml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">&amp;lt;dependency&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;lt;groupId&amp;gt;&lt;/span>org.csource&lt;span class="nt">&amp;lt;/groupId&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;lt;artifactId&amp;gt;&lt;/span>fastdfs-client-java&lt;span class="nt">&amp;lt;/artifactId&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;lt;version&amp;gt;&lt;/span>1.27-SNAPSHOT&lt;span class="nt">&amp;lt;/version&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nt">&amp;lt;/dependency&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>创建配置文件 fdfs_client.conf&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="c">#配置tracker服务器地址&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="l">tracker_server = 127.0.0.1:22122&lt;/span>&lt;span class="w">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>编写测试类&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="nd">@Test&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">fdfsUpload&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span> &lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">ClientGlobal&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">init&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;fdfs_client.conf&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">TrackerClient&lt;/span> &lt;span class="n">trackerClient&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">TrackerClient&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">TrackerServer&lt;/span> &lt;span class="n">trackerServer&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">trackerClient&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">getConnection&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">StorageServer&lt;/span> &lt;span class="n">storageServer&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">StorageClient&lt;/span> &lt;span class="n">storageClient&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">StorageClient&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">trackerServer&lt;/span>&lt;span class="o">,&lt;/span>&lt;span class="n">storageServer&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">String&lt;/span>&lt;span class="o">[]&lt;/span> &lt;span class="n">strings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">storageClient&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">upload_file&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;F:\\test.jpg&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="s">&amp;#34;jpg&amp;#34;&lt;/span>&lt;span class="o">,&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="n">String&lt;/span> &lt;span class="n">temp&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="n">strings&lt;/span>&lt;span class="o">)&lt;/span> &lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;----------&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="n">temp&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span> &lt;span class="k">catch&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="n">IOException&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">)&lt;/span> &lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">e&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">printStackTrace&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span> &lt;span class="k">catch&lt;/span> &lt;span class="o">(&lt;/span>&lt;span class="n">MyException&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">)&lt;/span> &lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">e&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">printStackTrace&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>测试结果&lt;/p>
-&lt;p>&lt;figure class="image-bubble">
-&lt;div class="img-lightbox">
-&lt;div class="overlay">&lt;/div>
-&lt;img src="https://s1.ax1x.com/2020/04/15/JPKO7n.png" title=" ">
-&lt;/div>
-&lt;div class="image-caption"> &lt;/div>
-&lt;/figure>&lt;/p></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

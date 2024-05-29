@@ -1,4 +1,394 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iKzouo</title><link>https://ikzouo.github.io/</link><description>Recent content on iKzouo</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ikzouo@163.com (iKzouo)</managingEditor><webMaster>ikzouo@163.com (iKzouo)</webMaster><lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ikzouo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>快速笔记</title><link>https://ikzouo.github.io/note/</link><pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/note/</guid><description>&lt;h2 id="linux">Linux&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iKzouo</title><link>https://ikzouo.github.io/</link><description>Recent content on iKzouo</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ikzouo@163.com (iKzouo)</managingEditor><webMaster>ikzouo@163.com (iKzouo)</webMaster><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ikzouo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>女神异闻录与塔罗牌</title><link>https://ikzouo.github.io/persona/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/persona/</guid><description>&lt;blockquote>
+&lt;p>本文仅做备份，文章来源https://www.gcores.com/articles/117141，原作者对本文拥有完全知识产权&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>惯例写在前面的话——&lt;/strong>&lt;/p>
+&lt;p>希望看完本篇的大家，能对塔罗占卜有一个基本的入门知识。其实占卜本身并不是那么神秘玄幻的事情，作者自己半摸索半学习在塔罗占卜的道路上爬了十多年，一直以来都带着憧憬的心态去问询和占卜，现在回首看来，塔罗就像是陪同自己一路走来的重要同伴，必不可少且令人信赖。&lt;/p>
+&lt;h2 id="塔罗和p系列">&lt;strong>▋▎&lt;/strong>塔罗和P系列&lt;/h2>
+&lt;blockquote>
+&lt;p>人类有着共通的心理机能，这种机能能透过遗传的方式，承接太古时期的潜意识。&lt;/p>
+&lt;/blockquote>
+&lt;p>结合荣格“集体潜意识”原型的理论，我们可以把塔罗牌视为连结人类“集体潜意识”和显现“原型”的工具，即它可以把我们潜意识中的意象和答案图像化，再通过塔罗占卜师的解释，把其中的答案传达给问卜者。&lt;/p>
+&lt;p>完整的古塔罗牌是由78张组成，其中22张画牌为&lt;strong>大阿尔卡纳&lt;/strong>牌，56张为&lt;strong>小阿尔卡纳&lt;/strong>牌。“大阿尔卡纳”牌从0号开始标记，为第0至第21张（xx塔罗是从1开始计数的，这里我们主要聊以0作为起始的xxx塔罗）。&lt;/p>
+&lt;blockquote>
+&lt;p>每一张塔罗牌都有一个象征，他们具象且针对性地指出了某种人类内在的思想、潜意识、隐藏的恐惧、渴望、个性、运程以及弱点。&lt;/p>
+&lt;/blockquote>
+&lt;p>大阿尔卡纳牌的一般用于解释命运的大致运势，而以宝剑（风）、圣杯（水）、钱币（土）、权杖（火）划分为四类的小阿尔卡纳牌则作为补充牌，用以在占卜中得知更进一步的细节。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_1.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>根据翻译的不同，大阿尔卡纳也被译为大阿尔卡那／大阿尔克纳&lt;/p>
+&lt;blockquote>
+&lt;p>每一张牌也都代表一段历程，从快乐、痛苦、希望、改变和重生，尤其从0号的愚者到21号的世界，这是一个完整的人生旅程，无论其象征肉体、心智或是感情。22张大阿尔卡纳及对应角色&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_2.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>无论对大阿尔卡纳或小阿尔卡纳，牌面本身的含义和象征也有正位和逆位之分，而《女神异闻录5》中作为角色象征coop则采取了0~21张大阿尔卡纳的元素，其牌面则取材于马赛塔罗。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_3.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>P5塔罗比照马赛塔罗&lt;/p>
+&lt;p>桥野本人也在FAMI通采访中谈起过塔罗的设定，从《女神异闻录3》开始，“塔罗牌”就成了这一系列游戏中重要的道具。&lt;/p>
+&lt;p>《女神异闻录3》的故事是围绕着12号牌「倒吊人」与13号牌「死神」展开，其中他所展示的「倒吊人」比起奉献和牺牲，更倾向于身处处刑的逆境，如果保持现状踌躇不前的话，等待的便是「死神」的降临。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_4.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>《女神异闻录4》中的塔罗牌（形象上参考了韦特塔罗）&lt;/p>
+&lt;p>《女神异闻录4》的故事则是围绕着14号牌「节制」展开，讲述的是人类通过正视自我、保持平衡来继续人生道路的故事。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_5.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>高塔，星，以及月亮&lt;/p>
+&lt;p>《女神异闻录5》则是以17号牌「星」为展开，17号牌「星」位于象征坠落和低估的16号牌「高塔」之后，预示着破灭之后的希望。（虽然我个人觉得也很像是从零开始的「愚者」成为「世界」的故事）&lt;/p>
+&lt;p>而《凯瑟琳》虽然不算P系列，但据称也融入了塔罗第15号与第16号牌的元素——象征着色欲和诱惑的「恶魔」和象征着毁灭与坠落的「高塔」。&lt;/p>
+&lt;h2 id="塔罗起源">&lt;strong>▋▎&lt;/strong>塔罗起源&lt;/h2>
+&lt;p>塔罗，Tarots，这一词是取自埃及语的tar（道）和ro（王）两词，含有“王之道”的意思。所以塔罗本身也是指身为王者应具备正确的决断力。作为古老的占卜工具，塔罗的起源至今众说纷纭。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_6.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>▋▎&lt;/strong>塔罗牌后的希腊诸神&lt;/p>
+&lt;p>塔罗牌的大阿卡尔纳除了寓意人生经历、阶段和角色类型之外，其牌面背后还对应着相关的希腊诸神，以下简单列举一下相关希腊诸神的故事背景。&lt;/p>
+&lt;p>&lt;strong>00.「愚者」 The Fool&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_7.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Dionysus&lt;/strong>&lt;/p>
+&lt;p>狄俄涅索斯，古希腊神话中的酒神（葡萄酒之神），奥林匹斯十二主神之一，宙斯（Zeus）和塞墨勒（Semele）的私生子。他还不足月时被宙斯从火刑架上的母体中抢救出来，缝入了自己的大腿，直至足月，他才宙斯取出，因此他得名狄俄涅索斯（意为“瘸腿的人”）。成年后的狄俄涅索斯仍遭到赫拉（Hela）迫害，是他疯癫，四处流浪。&lt;/p>
+&lt;p>&lt;strong>01.「魔术师」 The Magician&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_8.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Hermes&lt;/strong>&lt;/p>
+&lt;p>赫尔墨斯，古希腊神话中的信差、旅者、畜牧、商业以及小偷之神，奥林匹斯十二主神之一。罗马名为Mercury，即水星。宙斯和阿特拉斯之女、夜之母迈亚（Maia）的儿子。他同时也是雄辩之神和亡灵的向导。因偷窃闪电，被宙斯放逐到人间流浪。&lt;/p>
+&lt;p>相传一日，Hermes看到两只反目相斗的蛇，他拿起橄榄树树枝想将那两只蛇分开，结果那两只蛇竟然沿着树枝缠绕了起来，形成了他的手杖。而这柄手杖也在后世成为了医学的象征。相传，他还用河边发现的龟甲与羊筋一起制成了竖琴（七弦琴），他出生的第一晚还从母亲迈亚那里偷溜出去偷了只牛，但那只不幸的牛竟然是他兄弟阿波罗（Apollo）的。为了与阿波罗和好，赫耳墨斯将竖琴作为礼物送给了对方，也因此事，他又回到了奥林匹斯（Olympus）。&lt;/p>
+&lt;p>但赫尔墨斯对父亲宙斯极为忠诚。有一次宙斯的爱人之一伊俄被赫拉抓住，交由百眼巨人阿耳戈斯看守，赫尔墨斯前往探访，给巨人奏乐唱歌，讲冗长乏味的故事哄他睡着，然后在他睡着时用月牙儿似的弯刀砍掉了他的头颅。&lt;/p>
+&lt;p>&lt;strong>02.「女祭司」 The High Priestess&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_9.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Persephone&lt;/strong>&lt;/p>
+&lt;p>珀尔塞福涅，亦即贝瑟芬妮，古希腊神话中的冥后、谷种之神。宙斯与德墨忒尔（Demeter）之女，被冥王哈迪斯（Hades）（罗马名Pluto）掳走成为了冥后。&lt;/p>
+&lt;p>相传一日珀耳塞福涅与其他湖中仙女（或海仙女）一起出游采花，她不经意间被水仙吸引，与朋友分开了些距离，正在她准备去采摘那朵看似无害的水仙时，大地在她眼前裂开，四匹漆黑的马匹拉动着冥王的战车出现，就这样，无视一切反抗和挣扎，冥王抢走未来的冥后后消失在黑暗的死亡国度中。&lt;/p>
+&lt;p>&lt;strong>03.「皇后」The Empress&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_10.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Demeter&lt;/strong>&lt;/p>
+&lt;p>德墨忒尔，古希腊神话手中的农业、谷物与丰收女神，奥林匹斯十二主神之一，珀尔塞福涅（Persephone）的母亲，天后赫拉和冥王哈迪斯的姐姐。她教人播种，令土壤肥沃、植物茂盛、五谷丰登，她可以给予大地生机，也能令万物枯萎、寸草不生。传闻她在女儿珀尔塞福涅被掳走后一度不振，大地荒芜。&lt;/p>
+&lt;p>她是个高贵的女性，稳重、庄严，但珀尔塞福涅出事后，她非常悲伤，毅然决然地离开了奥林匹斯，发疯一般四处寻找着女儿的下落。因她的缺席，大地上万物停止生长。最后因宙斯的仲裁，冥王统一令泊尔塞福涅半年在冥府，半年在人间与母亲团聚（也有仅四个月在人间的说法）。因此人间便形成了四季。&lt;/p>
+&lt;p>&lt;strong>04.「皇帝」The Emperor&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_11.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Zeus&lt;/strong>&lt;/p>
+&lt;p>宙斯，古希腊神话十二主神之首，罗马名Jupiter，即木星。克罗诺斯（Chronos）和瑞亚（Rhea）之子，逃过被生父克罗诺斯吞噬的命运，并夺走其统治权。他的两个兄弟分别是哈迪斯和波赛冬，并有姐姐及妻子赫拉。&lt;/p>
+&lt;p>众神之父，诸神之生父。白银时代的开创者。&lt;/p>
+&lt;p>&lt;strong>05.「祭司（教皇）」The Hierophant&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_12.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Chiron&lt;/strong>&lt;/p>
+&lt;p>喀戎，又译为凯隆。古希腊神话中的半人马（肯陶洛斯人），他被尊为人头马身具有不死能力的医者，智者，也是占星中的凯龙星。以和善著称的他同时也是多位希腊英雄的导师，其中包括忒修斯（Theseus）、阿基里斯（也即阿喀琉斯）（Achilles）、伊阿宋（Jason）、赫拉克勒斯（海格力斯，罗马人称赫丘利）（Heracles）。&lt;/p>
+&lt;p>&lt;strong>06.「恋人」The Lovers&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_13.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Paris, Hera, Aphrodite, Athene&lt;/strong>&lt;/p>
+&lt;p>Paris：木马屠城记始作俑者，特洛伊城的二王子，骗走第一美女海伦（Helen）引发了特洛伊战争，在盟友太阳神阿波罗（Apollo）的指点下暗箭射中阿喀琉斯的脚踝，致使其死亡。&lt;/p>
+&lt;p>（Helen，人间第一美女，墨涅拉奥斯（Menelaus）之妻子）&lt;/p>
+&lt;p>Hera：赫拉，十二主神之一，宙斯之妻，罗马名Juno（小行星群）&lt;/p>
+&lt;p>Aphrodite：阿芙罗狄忒，十二主神之一，爱与美之女神，罗马名Venus（维纳斯，金星）&lt;/p>
+&lt;p>Athena（Athene）：雅典娜，十二主神之一，女战神，狩猎女神，罗马名Minerva&lt;/p>
+&lt;p>传言在宙斯与赫拉的婚礼上，大地女神盖亚从西海岸带回一棵枝叶茂盛的大树作为礼物，树上结满了金苹果。而后金苹果便作为宝物，这颗苹果树则被种在了圣园，由赫斯帕里得斯看守。&lt;/p>
+&lt;p>而在一日，人类英雄帕琉斯与海洋女神忒提斯的婚礼上，众神均受邀参加婚礼，唯独没有邀请女神厄里斯。心怀嫉妒的厄里斯怀恨在心，在婚礼上献上了一颗金苹果，上面写着“送给最美的女神”。&lt;/p>
+&lt;p>女神中地位最高同时也是最美的三位女神——赫拉、雅典娜和阿芙罗狄忒为了这个金苹果争执不下，于是赫尔墨斯建议宙斯找山上牧羊的漂亮小伙帕里斯评判。&lt;/p>
+&lt;p>为了得到象征着最美女神的金苹果，三位女神各自以筹码收买帕里斯。赫拉要给他管理人间世界的权力，阿芙罗狄忒要给他人间第一美女当妻子，雅典娜要给他智慧和胜利。&lt;/p>
+&lt;p>最后帕里斯将苹果给了阿芙罗狄忒（他也因此得到了人间最美的女人——海伦）。高傲的雅典娜和善妒的赫拉无法接受这种结果，于是联手发动了特洛伊战争。&lt;/p>
+&lt;p>&lt;strong>07.「战车」The Chariot&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_14.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;em>Ares&lt;/em>*&lt;/p>
+&lt;p>阿瑞斯，古希腊神话中的战争之神，同时司掌战斗、民事秩序与暴乱。奥林匹斯十二主神之一，众神之王宙斯和天后赫拉德儿子，智慧女神雅典娜的兄长，罗马名Mars（火星）。&lt;/p>
+&lt;p>相传特洛伊战争中他曾案中帮助特洛伊人与希腊人作战，但终被雅典娜打败。他形象俊美，深得阿芙罗狄忒爱慕，但阿芙罗狄忒已有丈夫，他们曾幽会被当场抓住，成为神界的笑料之一。&lt;/p>
+&lt;p>&lt;strong>08.「正义」Justice&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_15.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Athene&lt;/strong>&lt;/p>
+&lt;p>雅典娜，古希腊神话中的智慧女神，奥林匹斯十二主神之一。宙斯之女，正义女神，同时也是艺术与工艺女神。她与赫斯提亚、阿尔忒弥斯被视为奥林匹斯山上的三女神。&lt;/p>
+&lt;p>雅典城的守护神。&lt;/p>
+&lt;p>&lt;strong>09.「隐者」The Hermit&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_16.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Cronos&lt;/strong>&lt;/p>
+&lt;p>克罗诺斯，古希腊神话中第二代众神之王，泰坦十二神中最年轻的一个，宙斯、哈迪斯、波赛冬、赫拉等人的生父。黄金时代的开创者，天神乌拉诺斯（Uranus）和地母盖亚（Gaea）之子。时间之神、死亡之神。&lt;/p>
+&lt;p>克罗诺斯虽是泰坦十二神中最年轻的，由于长相太丑，被乌拉诺斯关在地府，为盖亚所救，之后他推翻并夺走父亲乌拉诺斯的统治权，用镰刀阉割了生父，和姐姐瑞亚（Rhea）结婚。&lt;/p>
+&lt;p>听到谣言说孩子将取代自己的地位后，他开始吞噬自己的孩子。&lt;/p>
+&lt;p>希腊语Cronos和时间谐音。&lt;/p>
+&lt;p>&lt;strong>10.「命运之轮」The Wheel of Fortune&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_17.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>命运三女神，古希腊神话中别称为摩伊拉（Morial）。她们是众神之王宙斯（Zeus）和忒弥斯（Themis）的女儿。&lt;/p>
+&lt;p>Clotho：克洛托，负责缠绕人的生命之丝&lt;/p>
+&lt;p>Lachesis：拉刻西斯，负责决定生命之丝之长短&lt;/p>
+&lt;p>Atropos：阿特洛波斯，负责剪断人的生命之丝&lt;/p>
+&lt;p>&lt;strong>11.「力量」Strength&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_18.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Heracles&lt;/strong>&lt;/p>
+&lt;p>赫拉克勒斯，也即海格力斯。古希腊神话中最伟大的英雄，大力士海格力斯，因不纯正的半人血统被生父宙斯的妻子赫拉憎恶。他完成了12项被誉为“不可能完成”的人物，并解救了被束缚的悬吊者普罗米修斯，隐藏身份参加了伊阿宋的英雄冒险队并协助他取得了金羊毛。赫拉克勒斯英明一世，但最后因第二任妻子的误会，因穿荼毒的衣服而痛苦自焚，死后终升入奥林匹斯圣山，成为大力神。其罗马名为Hercules。&lt;/p>
+&lt;p>&lt;strong>12.「倒吊人」The Hanged Man&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_19.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Prometheus&lt;/strong>&lt;/p>
+&lt;p>普罗米修斯，古希腊神话中最具智慧的神明之一，被誉为先知和觉悟者，是最早的泰坦巨神后代，为人类带来火种因而被钉在高加索山（Caucasus）上。相传天神创造人类时，遗忘了人类，普罗米修斯便向宙斯要求火种，而被后者所拒。&lt;/p>
+&lt;p>因此他跑去偷火种，并带到人间，于是宙斯放出洪水，要毁灭地上的人类。普罗米修斯警告他的儿子丢卡利翁（Deucalion），让他造出方舟，并带妻子普罗诺亚（Pyrrha）到船上。&lt;/p>
+&lt;p>丢卡利翁得以幸存并成为繁衍新一代人类的始祖，但宙斯并没有放过普罗米修斯。他被绑在高加索山上，一只老鹰不断地飞来刁啄他的肝。&lt;/p>
+&lt;p>但他的肝脏每天都会长出新的。&lt;/p>
+&lt;p>三十年后他终为赫拉克勒斯所救。&lt;/p>
+&lt;p>&lt;strong>13.「死神」Death&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_20.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Hades&lt;/strong>&lt;/p>
+&lt;p>哈迪斯，又译为黑帝斯，古希腊神话中的冥王，同时司管瘟疫。奥林匹斯十二主神之一，波赛冬（Poseidon）和宙斯的大哥，罗马名Pluto（冥王星）。&lt;/p>
+&lt;p>曾与波赛冬、宙斯以及姐妹们共同战胜了父亲克罗诺斯，结束了漫长的泰坦之战（提坦之战），之后瓜分世界时因抽中冥界的签而司掌冥府。&lt;/p>
+&lt;p>&lt;strong>14.「节制」Temperance&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_21.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Iris&lt;/strong>&lt;/p>
+&lt;p>伊丽丝，古希腊神话中的彩虹女神，专为宙斯及赫拉送信的信差之神。被认为是人类和神明沟通的中介，负责将人们的祈求、幸福、悲哀、怨怒以及祝福传递给神。相传她在天空匆匆飞过时会留下一道色彩，即人间看到的彩虹。&lt;/p>
+&lt;p>&lt;strong>15.「恶魔」The Devil&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_22.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Pan&lt;/strong>&lt;/p>
+&lt;p>潘，古希腊神话中的牧神，司管野生动物与森林之神。赫尔墨斯之子，人身羊腿，长有羊角和耳朵。他生性好色，其外形也后来被中世纪时期的天主教妖魔化成恶魔的形象。&lt;/p>
+&lt;p>他有一次追求仙女绪林克斯Syrinx，结果她化身为芦苇，他把芦苇采下制成了风笛。&lt;/p>
+&lt;p>潘很喜欢作弄森林中独行的人。&lt;/p>
+&lt;p>&lt;strong>16.「塔」The Tower&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_23.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Poseidon&lt;/strong>&lt;/p>
+&lt;p>波塞冬，古希腊神话中的海神，奥林匹斯十二主神之一，罗马名Neptune（海王星）。&lt;/p>
+&lt;p>克里特（Crete）王米诺斯（Minos）要讨好海神波赛冬，要把从海上浮起来的东西作为祭品，于是海上浮起来一只美丽的白色公牛。&lt;/p>
+&lt;p>但米诺斯反悔了不愿意献祭公牛，所以波赛冬让牛发疯。&lt;/p>
+&lt;p>那只牛和米诺斯的妻子生出弥诺陶洛斯（Minotaur）。&lt;/p>
+&lt;p>米诺斯于是造出迷宫，将他的俘虏关在迷宫喂给弥诺陶洛斯吃。&lt;/p>
+&lt;p>波赛冬的儿子忒修斯杀死弥诺陶洛斯，随后波赛冬又制造地震把迷宫震碎，救出俘虏。&lt;/p>
+&lt;p>忒修斯最后成为新的克里特王。&lt;/p>
+&lt;p>&lt;strong>17.「星星」The Star&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_24.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Pandora&lt;/strong>&lt;/p>
+&lt;p>潘多拉，古希腊神话中工匠之神赫菲斯托斯工匠之神奉宙斯之命用黏土和水做出来的第一个女人。她时作为对普罗米修斯盗火的惩罚，送给人类的第一个女人。&lt;/p>
+&lt;p>她有着和女神同样美丽的容貌，但没什么智慧，有点顽皮。&lt;/p>
+&lt;p>赫尔墨斯将背信放入她的心，将谎言放入她的口中。&lt;/p>
+&lt;p>宙斯将她送给普罗米修斯的哥哥厄毗米修斯 （Epimetheus），嫁妆是一个大箱子。&lt;/p>
+&lt;p>厄毗米修斯本来想拒绝，但看到哥哥被惩罚，便赶紧和潘多拉结婚。&lt;/p>
+&lt;p>普罗米修斯警告厄毗米修斯不要打开箱子，厄毗米修斯也因此警告潘多拉。&lt;/p>
+&lt;p>但是潘多拉实在禁不起好奇心的驱使，打开了箱子。&lt;/p>
+&lt;p>于是年老、辛劳、生病、肮脏、罪恶和痛苦都飞了出来。&lt;/p>
+&lt;p>只有希望还留在箱子里。&lt;/p>
+&lt;p>&lt;strong>18.「月亮」The Moon&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_25.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Hecate&lt;/strong>&lt;/p>
+&lt;p>赫卡特，也即赫卡忒，古希腊神话中的月之女神，别名Lumina，Luna，Diana（也即Artemis），Apollo的妹妹，月神，狩猎之神。她有一只三头猎狗，而她本人也有三个面貌，同时也身职亡灵之神，道路之神。&lt;/p>
+&lt;p>&lt;strong>19.「太阳」The Sun&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_26.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Apollo&lt;/strong>&lt;/p>
+&lt;p>阿波罗，古希腊神话中的太阳神，奥林匹斯十二主神之一，同时也是光明、预言、音乐和医药之神，消灾解难的神，人类文明、迁徙和航海者的保护神。阿尔忒弥斯（赫卡特）的孪生兄弟，太阳神。宙斯和勒托之子。&lt;/p>
+&lt;p>&lt;strong>20.「审判」Judgement&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_27.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Hermes the Psychopomp&lt;/strong>&lt;/p>
+&lt;p>赫尔墨斯，他也是亡灵的指引者。&lt;/p>
+&lt;p>&lt;strong>21.「世界」The World&lt;/strong>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_28.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;strong>Hermaphroditus&lt;/strong>&lt;/p>
+&lt;p>赫耳玛佛洛狄托斯，赫尔墨斯和阿芙罗狄忒的孩子（他俩是情人）。据传是个非常美丽的少年。&lt;/p>
+&lt;p>仙女萨耳玛西斯（Salmacis）爱上了他，抱住她喊道：&lt;/p>
+&lt;p>「神啊！我不想再离开他了！」&lt;/p>
+&lt;p>于是他们结合在了一起。&lt;/p>
+&lt;p>在在奥维德《变形记》中，她向众神祈祷，希望能与赫耳玛佛洛狄托斯合而为一、永不分离。众神满足了她的愿望，把他们变成同一个人。从此，赫耳玛佛洛狄托斯就成了一个雌雄同体的两性神。&lt;/p>
+&lt;p>在他们周围的四神分别为阿芙罗狄忒，宙斯，雅典娜，波赛冬。&lt;/p>
+&lt;h2 id="-六芒星占卜法">&lt;strong>▋▎&lt;/strong> 「六芒星占卜法」&lt;/h2>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_29.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>这个牌阵在P5游戏中也多次出现&lt;/p>
+&lt;p>作为只用大阿尔克纳牌即可实现功能的牌阵，六芒星占卜法算是在实用占卜法中〈中级篇〉的内容，「六芒星占卜法」也被称为“所罗门王的玉玺”或者是“大卫之星”。芒星六角形在迦芭拉神秘学中代表的是“天体运行必须与地相互协调”，也就是象征着天界和地界的调和。&lt;/p>
+&lt;p>当占卜者想获得清楚、明白的结果时，「六芒星占卜法」是很有效的一种占卜方式。在六芒星正中的那张牌就是结论的位置，不过如果当占卜者不需要结论，只想得到状况分析的话，可以不要配置中央的牌，仅使用六张牌来占卜也可以。&lt;/p>
+&lt;p>☆ 占卜方法&lt;/p>
+&lt;p>将塔罗牌中的大阿尔克纳牌按照指定的步骤充分洗好，牌面向下摆放。&lt;/p>
+&lt;p>注意在洗牌时，可以在闭眼的同时在心里涵盖总结想问询的问题已经相关的环境，从玄学上来说这点有助于提高占卜者的意志力，其实本质上也是便于集中注意力，方便在解牌时宏观地看待问题。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_30.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>洗牌的时候尤其要注意分牌的步骤，我自己一般是觉得随性就好，不要求一定等分&lt;/p>
+&lt;p>随后，从第一张牌开始，往下数第七张牌配置在❶的位置。接着按顺序取第二、第三、……直至配置完❷、❸、❹、❺、❻的位置。最后，将第七张牌放在中央❼的位置。&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/persona/persona_31.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>六芒星牌阵顺序，和画六芒星的顺序一样，顺时针画正三角和倒三角&lt;/p>
+&lt;p>注意，整个牌下局仅有此牌是以牌面向下的方式配置的。&lt;/p>
+&lt;p>牌的位置代表着不同问题的解答：&lt;/p>
+&lt;p>❶ 代表过去的因素&lt;/p>
+&lt;p>❷ 代表目前的状况&lt;/p>
+&lt;p>❸ 代表不久将来的预测&lt;/p>
+&lt;p>❹ 代表对于问题的对应方法&lt;/p>
+&lt;p>❺ 代表自己和他人影响力（相互关系的密切程度）&lt;/p>
+&lt;p>❻ 代表隐藏的问题&lt;/p>
+&lt;p>❼ 代表结论或者是解答&lt;/p>
+&lt;p>☆ 解牌方法&lt;/p>
+&lt;p>按照如上图所示的方式洗牌、摆牌后，便可以根据开出的牌面内容解答相关的问题，作者自己在解牌时一般会准备1-2本塔罗解牌的书籍，结合问题的具体情况去分析思考，目前百度百科和一些相关的网站开出来的牌解也可以作为参考，但就个人而言一般这些都作为参考，对牌面的解读还是根据个人问题的情况，听取部分牌面解读的意见就好。&lt;/p>
+&lt;h2 id="关于占卜的一些想法">&lt;strong>▋▎关于占卜的一些想法&lt;/strong>&lt;/h2>
+&lt;p>其实塔罗占卜本身最难的并非牌阵规则或卡面内涵，这些内容本身都可以通过查阅相关书籍或百度搜到，比较困难的地方在于开出牌面之后针对占卜问题的解析和回答，每个人对塔罗和问题的见解都是独特的，撇开现实问题和逻辑本身解析卡牌并没有什么太大意义，相反，针对牌面内容和具体问题反省和思考，才是塔罗占卜真正的深意。&lt;/p>
+&lt;p>这些只是我个人的一些见解，对塔罗新人来说，个人觉得六芒星占卜结合了过去、现在、未来、隐藏问题、解决方法以及未来短期预测的综合因素，解读起来比较容易上手。&lt;/p>
+&lt;p>而对于塔罗解牌思路，个人真的觉得这是个积累、思考以及熟能生巧的事情，举作者自己本人的例子，今年四月算是我经历人生非常大转折的时候，当时在针对未来的预测进行占卜决策的时候，现状或隐藏问题的位置经常会开出16号高塔牌。早先是开出逆位，象征着抗拒现实、明知变故已致但仍抱着倾斜的高塔拒绝接受现实，而后续开出的是正位的高塔，寓意着能面对波折，但仍处在坍塌的余震中尚未痊愈。而后续四五月份的占卜中也陆续开出过寓意着注意交通安全的逆位战车，在此之后的确有过几次车祸……我曾经在考研的前一天询问过塔罗牌最后的结果，印象很深那是我第一次开出正位的审判，虽然审判牌本身并无特别意义的正逆之分，但的确最后的结果也成为了决定人生分水岭的重要一环。以及曾经身边有一个天蝎座的……朋友时，经常在针对工作和生活前途迷茫时在六芒星的❹号位开出正位月牌，当时我解读时采纳的事针对牌面本身的答案，即听取蝎子的建议。而再后来发生了一些事之后，的确再也没有开出过月亮牌。&lt;/p>
+&lt;p>总结而言，如果有人想问我塔罗这么玄幻的东西准不准的话，我想说，如果是把他罗作为一指导人生的同伴和导师的话我个人觉得是非常准的，而对于未来的预测，我自己对塔罗的解读也只能预估到主观能动性能够完全影响到的短期未来，所以与其说是塔罗预示未来，不如说是人们通过塔罗这个道具来正视和反省自己的内心。&lt;/p>
+&lt;p>希望这篇文章能给对塔罗感兴趣的读者带来一些解答，如果需要的话也许下一篇会展开写一篇作者自己对塔罗各个牌面的解读，如果有人想看的话（爬……）&lt;/p>
+&lt;p>以及，谢谢大家耐着性子看完。&lt;/p>
+&lt;p>——考据使人快乐。&lt;/p></description></item><item><title>快速笔记</title><link>https://ikzouo.github.io/note/</link><pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/note/</guid><description>&lt;h2 id="linux">Linux&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#查询服务日志&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">systemctl status kubelet
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
@@ -1416,430 +1806,4 @@ git remote add origin_ssh &amp;lt;远程库ssh连接地址&amp;gt;。&lt;/p>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Test&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>java锁初探</title><link>https://ikzouo.github.io/thread/</link><pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/thread/</guid><description>&lt;h2 id="同步代码块">同步代码块&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">Object&lt;/span> &lt;span class="n">o&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">Object&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">count&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test1&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//其余耗时操作
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="kd">synchronized&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">o&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//临界资源(多个线程都能访问的资源)
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="n">count&lt;/span>&lt;span class="o">++;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>当代码中有其余的耗时操作 而我们需要同步的代码又只占一小部分的时候 可以使用同步代码块&lt;/p>
-&lt;p>对于常见类型 可以使用其原子性对象 原子对象的方法都是原子操作，可以保证线程安全如&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">AtomicInteger&lt;/span> &lt;span class="n">count&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">AtomicInteger&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">count&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">incrementAndGet&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="方法锁">方法锁&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">synchronized&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//锁当前对象
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="c1">//多个线程访问 [ 同一个对象 ] 时生效
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test3&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//锁当前对象 等同于上面
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>证明锁同一个对象&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">methodA&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">methodB&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>针对上面的代码&lt;/p>
-&lt;p>创建两个线程分别去调用&lt;mark>同一个对象&lt;/mark>的methodA和methodB 会触发线程同步&lt;/p>
-&lt;p>以下情况不会触发线程同步&lt;/p>
-&lt;ol>
-&lt;li>不同对象的同一方法&lt;/li>
-&lt;li>不同对象的不同方法&lt;/li>
-&lt;li>同一对象的同步和不同步方法&lt;/li>
-&lt;/ol>
-&lt;p>以下讨论方法锁的几种常见情况&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">int&lt;/span> &lt;span class="n">temp&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">setTemp&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">temp&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//复杂的逻辑代码........
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">temp&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">temp&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="nf">getTemp&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">temp&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上面代码 如果两个线程分别去调用同一个对象的setTemp和getTemp方法 会导致脏读 一般建议set 或get方法都设置为同步方法&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="nf">test1&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">test2&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码为锁的可重入，即同一个线程访问同一个对象多次调用同步方法时可重入，上面代码执行结果为test1()阻塞等待test2()执行结束才会继续执行&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">class&lt;/span> &lt;span class="nc">ATest&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">class&lt;/span> &lt;span class="nc">BTest&lt;/span> &lt;span class="kd">extends&lt;/span> &lt;span class="n">ATest&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nd">@Override&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">super&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">test&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码也是可重入的一种应用 如果去调用子类的test()方法 子类会阻塞等待父类执行完毕之后再继续执行&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">class&lt;/span> &lt;span class="nc">ATest&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">int&lt;/span> &lt;span class="n">count&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">count&lt;/span>&lt;span class="o">++;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">count&lt;/span> &lt;span class="o">%&lt;/span> &lt;span class="mi">5&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">count&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">count&lt;/span> &lt;span class="o">/&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码 如果创建两个线程去调用同一个对象的该方法，第一个线程抛出异常时会释放锁，第二个对象获得对象锁继续执行 在遇到同步业务逻辑的时候 抛出异常后该如何处理是需要考虑的&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">Object&lt;/span> &lt;span class="n">o&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">Object&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">synchronized&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">o&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;23333333&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码 创建两个线程，第一个线程去执行test()方法 ，第二个线程执行之前先执行 o = new Object()，再去调用test()方法，并不会影响第一个线程 ，同步代码块一旦上锁之后，会有一个临时锁引用指向对象和真实的引用无关，在锁释放之前，修改锁对象引用，不会影响代码块的执行。&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">String&lt;/span> &lt;span class="n">s1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s">&amp;#34;lock&amp;#34;&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">String&lt;/span> &lt;span class="n">s2&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s">&amp;#34;lock&amp;#34;&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">synchronized&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">s1&lt;/span>&lt;span class="o">){}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">synchronized&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">s2&lt;/span>&lt;span class="o">){}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码 创建两个线程分别去调用同一个对象的test1()和test2()方法，第二个线程无法执行，因为test和test2锁的是同一个对象，所以在定义同步代码块的时候，不建议使用常量对象作为锁对象。&lt;/p>
-&lt;h2 id="类锁">类锁&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">static&lt;/span> &lt;span class="kd">synchronized&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test4&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//锁class对象
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">static&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test5&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">synchronized&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">class&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//锁class类对象 等同于上面
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>两个线程去访问&lt;mark>同一&lt;/mark>或&lt;mark>不同一对象&lt;/mark>的methodA和methodB都会触发线程同步&lt;/p>
-&lt;h2 id="volatitle">Volatitle&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">boolean&lt;/span> &lt;span class="n">flag&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kc">true&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">flag&lt;/span>&lt;span class="o">){}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>对于上面的代码 如果一个线程去调用test()方法 ，然后将flag改为false 不能结束第一个线程的运行，这是由于cpu在读取代码的时候，会将临时变量值存储到缓存之中，当cpu中断或某些情况发生时，cpu才会清空缓存，重新读取内存临时变量值到缓存中。解决这种问题可以使用volatitle来修饰flag通知cpu将缓存和内存里面的临时变量的值同步，这也称为内存的可见性。&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">volatitle&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">count&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">10000&lt;/span>&lt;span class="o">;&lt;/span> &lt;span class="n">i&lt;/span>&lt;span class="o">++){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">count&lt;/span>&lt;span class="o">++;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码如果创建多个线程去执行test方法，并通过join连接起来，最终打印count会发现count离预想的值要差很多，因为volatitle只能保证可见性，但并不能保证原子性。&lt;/p>
-&lt;h2 id="countdownlatch">CountDownLatch&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">CountDownLatch&lt;/span> &lt;span class="n">latch&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">CountDownLatch&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="o">);&lt;/span>&lt;span class="c1">//创建5个门闩
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test1&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">latch&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">await&lt;/span>&lt;span class="o">();&lt;/span>&lt;span class="c1">//等待门闩解开
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="o">}&lt;/span>&lt;span class="k">catch&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">Exception&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">e&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">printStackTrace&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;strat-----&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="o">;&lt;/span> &lt;span class="n">i&lt;/span>&lt;span class="o">++){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">latch&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">getCount&lt;/span>&lt;span class="o">()&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">latch&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">countDown&lt;/span>&lt;span class="o">());&lt;/span>&lt;span class="c1">//当前门闩的锁数
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="n">latch&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">countDown&lt;/span>&lt;span class="o">();&lt;/span>&lt;span class="c1">//减门闩上的锁
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>可以和锁混合使用，或者替代锁的功能，在门闩未完全开放之前等待，在门闩开放之后执行，避免锁的效率低下问题。&lt;/p>
-&lt;h2 id="reentrantlock">ReentrantLock&lt;/h2>
-&lt;p>建议使用的同步方式，相对效率比synchronized高，量级较轻。&lt;/p>
-&lt;p>一定要手动释放锁标记，一般都是放到finally里面&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">Lock&lt;/span> &lt;span class="n">lock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">ReentrantLock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test1&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;----------------&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;-------------------&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>ReentrantLock在lock()加锁之后 到unlock()之间的代码都属于同步代码&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//尝试获得锁
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">Lock&lt;/span> &lt;span class="n">lock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">ReentrantLock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test1&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;---------&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">boolean&lt;/span> &lt;span class="n">isLock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kc">false&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//尝试获得锁 如果获得成功返回true
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="c1">//获取不成功 返回 false
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="c1">//isLock = lock.tryLock();
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//阻塞尝试锁 在设置的时常内尝试获取锁标记
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="c1">//如果超时 则直接返回false 不等待
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="n">isLock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">tryLock&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="o">,&lt;/span>&lt;span class="n">TimeUnit&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">SECONDS&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">isLock&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;已上锁&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">else&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;未上锁&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">catch&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">Exception&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">e&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">printStackTrace&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">isLock&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//一定要先判断是否获取到锁标记 然后去开锁
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="c1">//否则会抛出异常
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>尝试获得锁用来判断某个线程是否获得了锁对象&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//尝试打断锁
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">Lock&lt;/span> &lt;span class="n">lock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">ReentrantLock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test1&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;---------&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">test2&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lockInterruptibly&lt;/span>&lt;span class="o">();&lt;/span>&lt;span class="c1">//可尝试打断 阻塞等待锁 可以被其他线程打断阻塞状态
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="o">}&lt;/span>&lt;span class="k">catch&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">Exception&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;test2 interruptibly.....&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">catch&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">Exception&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">e&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">printStackTrace&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kd">static&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">String&lt;/span>&lt;span class="o">[]&lt;/span> &lt;span class="n">args&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//第一个线程去执行test1()
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="c1">//第二个线程去执行test2()
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="n">t2&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">interrupt&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码 一个线程正在执行过程中， 另外一个线程尝试去获取锁进入阻塞状态，这种阻塞状态可以被外界打断，并抛出异常，类似于睡觉被别人突然叫醒。&lt;/p>
-&lt;p>阻塞状态又分为 普通阻塞、阻塞队列、锁池状态&lt;/p>
-&lt;p>普通阻塞 sleep() 可以调用thread.interrupt()被打断，并抛出异常&lt;/p>
-&lt;p>阻塞队列 调用wait()进入阻塞状态，只能被唤醒，无法被打断&lt;/p>
-&lt;p>锁池队列 无法获取锁对象，并不是所有的所持状态的线程都可以被打断&lt;/p>
-&lt;p>    使用ReentrantLock的lock()获取锁标记，如需阻塞等待锁标记，则无法被打断&lt;/p>
-&lt;p>    使用ReentrantLock的lockInterruptibly()获取锁标记，如需阻塞等待锁标记，则可以打断&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//公平锁
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">TestReentrantLock&lt;/span> &lt;span class="kd">extends&lt;/span> &lt;span class="n">Thread&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">ReentrantLock&lt;/span> &lt;span class="n">lock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">ReentrantLock&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nd">@Ovrride&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">run&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">5&lt;/span>&lt;span class="o">;&lt;/span> &lt;span class="n">i&lt;/span>&lt;span class="o">++){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;---------&amp;gt;&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码 创建两个线程去执行run()，当第一个线程在执行第一次循环的时候，第二个线程处于阻塞状态，第一个线程执行完第一次循环进入阻塞状态，第二个线程执行第一次循环，会出现两个线程交替执行的情况&lt;/p>
-&lt;blockquote>
-&lt;p>在os中线程竞争锁是不公平的，当三个线程同时阻塞等待一把锁，锁释放的时候，不一定是按照先来后到的顺序去获得锁，也许是等待时间较短的先获得锁，而公平锁则是为解决这种问题出现的，等待时间越长一定会获得锁。其底层使用队列实现。&lt;/p>
-&lt;/blockquote>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//生产者消费者(ReentrantLock)
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Test&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kd">final&lt;/span> &lt;span class="n">LinkedList&lt;/span>&lt;span class="o">&amp;lt;&lt;/span>&lt;span class="n">E&lt;/span>&lt;span class="o">&amp;gt;&lt;/span> &lt;span class="n">list&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">LinkedList&lt;/span>&lt;span class="o">&amp;lt;&amp;gt;();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kd">final&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">MAX&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">count&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">ReentrantLock&lt;/span> &lt;span class="n">lock&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="n">ReentrantLock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">Condition&lt;/span> &lt;span class="n">producer&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">newCondition&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">Condition&lt;/span> &lt;span class="n">consumer&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">newCondition&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="nf">getCount&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">count&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">};&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">put&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">E&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">list&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">size&lt;/span>&lt;span class="o">()&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="n">MAX&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">producer&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">await&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">list&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">add&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">e&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">count&lt;/span>&lt;span class="o">++;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">consumer&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">singalAll&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">get&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">E&lt;/span> &lt;span class="n">e&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">lock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">list&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">size&lt;/span>&lt;span class="o">()&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">cusumer&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">await&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">e&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">list&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">removeFist&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">count&lt;/span>&lt;span class="o">--;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">producer&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">singalAll&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>&lt;span class="k">finally&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">lock&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">unlock&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">e&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如上代码是生产者消费者简单实现，通过设置Condition条件来控制线程之间协作，通过singalAll去唤醒对应的线程，不同于使用notifyAll()，singalAll()能唤醒线程的更精准。&lt;/p>
-&lt;h2 id="锁的底层原理">锁的底层原理&lt;/h2>
-&lt;p>&lt;figure class="image-bubble">
-&lt;div class="img-lightbox">
-&lt;div class="overlay">&lt;/div>
-&lt;img src="https://s1.ax1x.com/2020/04/15/JPMhDJ.png" title=" ">
-&lt;/div>
-&lt;div class="image-caption"> &lt;/div>
-&lt;/figure>&lt;/p>
-&lt;p>对象在堆内存中存储主要分为三部分&lt;/p>
-&lt;p>对象头 存储对象的hashCode、锁信息、分代年龄、GC标志、类型指针指向对象的类、元数据&lt;/p>
-&lt;p>实例变量 存放对象的实例变量包括父类的实例变量&lt;/p>
-&lt;p>填充数据 jvm要求对象的起始位置必须为整数倍，填充数据不是必须存在的，仅仅是为了字节对齐
-&lt;br/>
-&lt;br/>&lt;/p>
-&lt;p>在对象中加锁，数据存储在对象头信息中，在执行synchronized同步方法或同步代码块的时候，会在对象头部记录锁标记，锁标记指向monitor对象(也称为管程或对象监视器锁)的起始位置，每个对象都存在与之对应的monitor对象存在，monitor可以在对象创建时产生，也可以在线程执行同步代码块的时候创建。一个线程持有了对象的锁，其实是线程与对象的monitor相关联。&lt;/p>
-&lt;p>在jvm中monitor是由ObjectMonitor实现的&lt;/p>
-&lt;p>在Monitor中存在_WaitSet (管理等待队列) _EntryList ( 管理锁池阻塞线程 ) _Owner ( 记录当前执行的线程 ) 三种标记， 线程的状态如下图所示&lt;/p>
-&lt;p>&lt;figure class="image-bubble">
-&lt;div class="img-lightbox">
-&lt;div class="overlay">&lt;/div>
-&lt;img src="https://s1.ax1x.com/2020/04/15/JPM4b9.png" title=" ">
-&lt;/div>
-&lt;div class="image-caption"> &lt;/div>
-&lt;/figure>&lt;/p>
-&lt;p>当多个线程访问同一个同步代码的时候，线程先进入锁池_EntryList中，当某个线程获取锁标记的时候，Monitor的 _Owner会记录该线程，并在Monitor的计数器中执行递增运算(+1)，当该线程执行完毕或wait()放弃锁的时候，Monitor计数器置为0，同时 _Owner置为null,等待下一个线程获取锁标记。&lt;/p>
-&lt;h2 id="锁的种类">锁的种类&lt;/h2>
-&lt;p>java中的锁大致分为偏向锁、轻量锁、重量锁、自旋锁。&lt;/p>
-&lt;p>锁的升级方式为 系统先提供偏向锁，偏向锁不能满足需求则提供轻量锁，轻量锁不满足要求则提供重量锁，自旋锁是一种锁的状态，不是一种实际的锁的类型。&lt;/p>
-&lt;p>锁的升级由jvm操作无需程序员干涉。&lt;/p>
-&lt;blockquote>
-&lt;p>偏向锁 当线程中不可能存在多个线程争夺一个锁的情况下，jvm解释执行的时候会自动放弃同步信息，消除synchronized同步代码的结果，使用锁标记的形式记录锁状态，在Monitor中使用 ACC_SYNCHRONIZED 记录获取对象的线程，可以避免锁的抢夺和锁池状态的维护。&lt;/p>
-&lt;/blockquote>
-&lt;br/>
-&lt;blockquote>
-&lt;p>轻量级锁 当出现多个线程争夺同一个对象锁的时候，先提升为轻量级锁，使用 ACC_SYNCHRONIZED 标记获得锁的线程，使用 ACC_UNSYNCHRONIZED 标记未获得锁的线程，两个线程争夺同一个对象锁的时候可能会出现轻量级锁。&lt;/p>
-&lt;/blockquote>
-&lt;br/>
-&lt;blockquote>
-&lt;p>重量级锁 在锁的底层原理中解释的即为重量级锁&lt;/p>
-&lt;/blockquote>
-&lt;br/>
-&lt;blockquote>
-&lt;p>自旋锁 是一个过度锁，是偏向锁和重量锁的过渡，在获取锁的过程中，未获取到，jvm为了效率，会自动进行多次空循环，来保持线程的状态，而不是进入阻塞，自旋锁避免了线程状态的变更&lt;/p>
-&lt;/blockquote>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="n">Class&lt;/span> &lt;span class="n">BuyTicks&lt;/span> &lt;span class="kd">implements&lt;/span> &lt;span class="n">Runnable&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">ticks&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">boolean&lt;/span> &lt;span class="n">flag&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kc">true&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nd">@Override&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">run&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">flag&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">buy&lt;/span>&lt;span class="o">();&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">buy&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">ticks&lt;/span> &lt;span class="o">&amp;lt;=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">flag&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="kc">false&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;get ticks &amp;#34;&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">ticks&lt;/span>&lt;span class="o">--);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">class&lt;/span> &lt;span class="nc">Account&lt;/span> &lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">money&lt;/span> &lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">String&lt;/span> &lt;span class="n">name&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="nf">Account&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">money&lt;/span>&lt;span class="o">,&lt;/span>&lt;span class="n">String&lt;/span> &lt;span class="n">name&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">money&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">money&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">name&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">name&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">class&lt;/span> &lt;span class="nc">persion&lt;/span> &lt;span class="kd">implements&lt;/span> &lt;span class="n">Runnable&lt;/span>&lt;span class="o">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">Account&lt;/span> &lt;span class="n">account&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">nowMoney&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="n">drawingMoney&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="nf">Account&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">Account&lt;/span> &lt;span class="n">account&lt;/span>&lt;span class="o">,&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">nowMoney&lt;/span>&lt;span class="o">,&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="n">drawingMoney&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">account&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">account&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">nowMoney&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">nowMoney&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">drawingMoney&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">drawingMoney&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nd">@Override&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="kt">void&lt;/span> &lt;span class="nf">run&lt;/span>&lt;span class="o">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="n">account&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">money&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="n">drawingMoney&lt;/span> &lt;span class="o">&amp;lt;=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="o">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">account&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">money&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">account&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">money&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="n">drawingMoney&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">nowMoney&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">nowMoney&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">drawingMoney&lt;/span>&lt;span class="o">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;account money [&amp;#34;&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">account&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">money&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="s">&amp;#34;]&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">System&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">out&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">println&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="s">&amp;#34;now money [&amp;#34;&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">nowMoney&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="s">&amp;#34;]&amp;#34;&lt;/span>&lt;span class="o">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

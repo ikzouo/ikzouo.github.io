@@ -630,7 +630,61 @@
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">&lt;/span>-H &lt;span class="s1">&amp;#39;Content-Type: application/json&amp;#39;&lt;/span> &lt;span class="se">\
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">&lt;/span>-d &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Switch大气层</title><link>https://ikzouo.github.io/atmosphere/</link><pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate><author>ikzouo@163.com (iKzouo)</author><guid>https://ikzouo.github.io/atmosphere/</guid><description>&lt;h2 id="大气层整合">大气层整合&lt;/h2>
-&lt;h3 id="大气层特斯拉插件">大气层特斯拉插件&lt;/h3>
+&lt;h3 id="三件套整合">三件套整合&lt;/h3>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/atmosphere/atmosphere.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/atmosphere/sigpatches.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;p>&lt;figure class="image-bubble">
+&lt;div class="img-lightbox">
+&lt;div class="overlay">&lt;/div>
+&lt;img src="https://raw.githubusercontent.com/ikzouo/blog-images/master/img/blog/atmosphere/hekate.webp" title=" ">
+&lt;/div>
+&lt;div class="image-caption"> &lt;/div>
+&lt;/figure>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>移动 fusee.bin 至 bootloader/payloads 文件夹&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>将 hekate_ctcaer_*.bin 重命名为 &lt;code>payload.bin&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在根目录中创建 &lt;code>boot.ini&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在 bootloader 文件夹中创建 &lt;code>hekate_ipl.ini&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在根目录中创建 &lt;code>exosphere.ini&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在 atmosphere/hosts 文件夹中创建 &lt;code>emummc.txt&lt;/code> 和 &lt;code>sysmmc.txt&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在 atmosphere/config 文件夹中创建 &lt;code>override_config.ini&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在 atmosphere/config 文件夹中创建 &lt;code>system_settings.ini&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在 atmosphere 文件夹中创建 contents文件夹&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>删除 switch 文件夹中 haze.nro、daybreak.nro、reboot_to_payload.nro&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="特斯拉插件">特斯拉插件&lt;/h3>
 &lt;p>&lt;strong>Tesla&lt;/strong>&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">desc&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="l">特斯拉内核插件&lt;/span>&lt;span class="w">
